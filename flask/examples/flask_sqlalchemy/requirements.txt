@@ -1,0 +1,2 @@
+graphene-sqlalchemy>=2.0
+Flask-GraphQL
